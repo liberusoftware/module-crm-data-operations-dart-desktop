@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-data-operations-dart-desktop",
+  "capabilityKey": "liberusoftware/module-crm-data-operations",
+  "presentation": "dart-desktop",
+  "package": "module_crm_data_operations_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/crm/nextjs/data-operations.md",
+  "presentationPlan": "projects/crm/features/data-operations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
